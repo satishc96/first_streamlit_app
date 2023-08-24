@@ -1,4 +1,4 @@
 import streamlit
 
-streamlit.title('my parents new healthy diner')
-streamlit.title('Omega 3 and blueberry oatmeal')
+streamlit.title('Hi Shweta, hope you are doing well')
+streamlit.title('Have a great day!')
