@@ -1,5 +1,5 @@
 import streamlit
-import pandas as pd
+import pandas 
 
 streamlit.header('Breakfast Favourites')
 streamlit.text('🥣, Omega 3 & Blueberry Oatmeal')
